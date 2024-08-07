@@ -1,2 +1,2 @@
 exllamav2>=0.0.17;
-flash-attn>=2.5.7; 
+
